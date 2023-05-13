@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width:400px;
+  height:240px;
+  margin: 10px 0 ;
+}
+.midSelector{
+  position:relative;
+}
+.selectBtn{
+  position: absolute;
+  left: 480px;
+}
+.modal{
+  --bs-modal-width: 1400px !important;
+}
+.font-weight-bold {
+  font-weight: 700 !important; }
+
+.cursor-pointer {
+  cursor: pointer;
+}
